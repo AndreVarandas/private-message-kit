@@ -1,0 +1,14 @@
+name: PrivateMessageKit
+version: '${project.version}'
+main: io.varandas.privatemessagekit.Main
+api-version: '1.20'
+
+commands:
+    message:
+        description: Send a private message to a player
+        usage: /<command> <player> <message>
+        aliases: [msg, tell, w, m]
+    reply:
+        description: Reply to the last private message you received
+        usage: /<command> <message>
+        aliases: [r]
