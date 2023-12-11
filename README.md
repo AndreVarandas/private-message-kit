@@ -1,5 +1,7 @@
 # PrivateMessageKit
 
+![PrivateMessageKit Logo](extras/logo.png)
+
 PrivateMessageKit is a Spigot plugin designed for Minecraft servers. It allows players to send private messages to each other and reply to the most recent message. This plugin enhances in-game communication by providing a simple yet effective private messaging system.
 
 ## Features
